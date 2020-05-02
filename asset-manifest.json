@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/endonova/static/js/main.0cb7c3cf.chunk.js",
+    "main.js.map": "/endonova/static/js/main.0cb7c3cf.chunk.js.map",
+    "runtime-main.js": "/endonova/static/js/runtime-main.47768949.js",
+    "runtime-main.js.map": "/endonova/static/js/runtime-main.47768949.js.map",
+    "index.html": "/endonova/index.html",
+    "precache-manifest.9c23ce09896a08d35fce5fff0e50e78a.js": "/endonova/precache-manifest.9c23ce09896a08d35fce5fff0e50e78a.js",
+    "service-worker.js": "/endonova/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47768949.js",
+    "static/js/main.0cb7c3cf.chunk.js"
+  ]
+}
