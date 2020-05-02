@@ -5,10 +5,12 @@ import * as serviceWorker from './serviceWorker';
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "shards-ui/dist/css/shards.min.css"
+import Navigation from './components/Navigation';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Home />
+    <Navigation/>
+    <Home/>
   </React.StrictMode>,
   document.getElementById('root')
 );

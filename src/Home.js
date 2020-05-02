@@ -1,14 +1,17 @@
 import React from 'react';
-import Navigation from './components/Navigation';
+import background from './images/banner.jpg'
+import Carousel from './components/Carousel';
 
 
 function Home() {
 
-  return (
+    return (
     <div>
-      <Navigation/>
+      <div style={{backgroundImage: `url(${background})`, minHeight: '100vh'}}/>
+
+      {/* <Carousel/>  */}
     </div>
-  );
+    );
 }
 
 export default Home;
